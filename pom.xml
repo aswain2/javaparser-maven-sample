@@ -27,6 +27,15 @@
             <version>3.25.8</version>
         </dependency>
     </dependencies>
+     <!-- ADDING THIS DEPENDENCY FOR DEMO -->    
+<dependencies>
+    <dependency>
+      <groupId>junit</groupId>
+      <artifactId>junit</artifactId>
+      <version>3.8.1</version>
+      <scope>test</scope>
+    </dependency>
+  </dependencies>
 
     <!-- This blob of configuration tells Maven to make the jar executable. You can run it with:
     mvn clean package
