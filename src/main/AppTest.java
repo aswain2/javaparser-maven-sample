@@ -1,4 +1,4 @@
-package com.mycompany.myapp;
+package com.yourorganization.maven_sample;
 
 import junit.framework.Test;
 import junit.framework.TestCase;
